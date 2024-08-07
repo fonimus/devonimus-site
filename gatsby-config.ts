@@ -2,7 +2,7 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `fonimus`,
+    title: `DevOnimus`,
     siteUrl: `https://devonimus.fr`,
   },
   graphqlTypegen: true,
