@@ -19,7 +19,7 @@ const IndexPage: React.FC<PageProps> = () => {
                 développeur fullstack.</p>
             <p className="mt-10 text-xl">Le nom de mon entreprise est <a
                 className="text-lg"
-                href="https://data.inpi.fr/entreprises/891226276"
+                href="https://data.inpi.fr/entreprises/989930060"
                 target="_blank" rel="noreferrer">
                 <code className="underline">DevOnimus</code>
             </a>.
